@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TripExpenses</string>
+    <string name="distance">Distance</string>
+    <string name="total_kilometers">Total kilometers</string>
+    <string name="price">Price</string>
+    <string name="fuel_price">Fuel price</string>
+    <string name="autonomy">Autonomy</string>
+    <string name="km_l">KM/L</string>
+    <string name="your_total_expense">Your total expense will be:</string>
+    <string name="calculate">Calculate</string>
+    <string name="total_value">R$ 0</string>
+    <string name="fill_all_fields">All fields should be filled!</string>
+    <string name="inform_valid_value">Please inform a valid value</string>
+</resources>
